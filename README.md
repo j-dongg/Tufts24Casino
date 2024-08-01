@@ -11,9 +11,8 @@ Get ready for an exhilarating time at Group G's Casino, where fortune favors the
 
 To write a comprehensive README for the GitHub repository shown in your screenshot, which is titled "Tufts24Casino" and contains several Python scripts for casino games and associated resources, here’s a suggested format and content:
 
-How to Play:
-Clone the repository:
+## How to Play:
 
-git clone https://github.com/username/Tufts24Casino.git
+* Clone Repo: git clone https://github.com/username/Tufts24Casino.git
 
-cd Tufts24Casino
+* cd Tufts24Casino
